@@ -92,8 +92,7 @@ The system logs key sync events:
 🔁 Retry attempts
 Example Logs
 [SYNC] Queue Size: 2
-[SYNC] Processing: ADD_NOTE (id: abc123)
-[SYNC] Success: abc123
+[SYNC] Processing: ADD_NOTE (id: 78fdxff78jgty)
 [SYNC] Queue Size: 1
 🧪 Verification Scenarios
 
